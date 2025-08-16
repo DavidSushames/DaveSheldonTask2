@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\sclar\\Documents\\DaveSheldonTask2\\NameListApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{806FC2DE-A697-4D9D-9A10-0A40F7628FED}|NameListApp.csproj|c:\\users\\sclar\\documents\\davesheldontask2\\namelistapp\\surnames.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{806FC2DE-A697-4D9D-9A10-0A40F7628FED}|NameListApp.csproj|solutionrelative:surnames.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{806FC2DE-A697-4D9D-9A10-0A40F7628FED}|NameListApp.csproj|c:\\users\\sclar\\documents\\davesheldontask2\\namelistapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{806FC2DE-A697-4D9D-9A10-0A40F7628FED}|NameListApp.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{806FC2DE-A697-4D9D-9A10-0A40F7628FED}|NameListApp.csproj|C:\\Users\\sclar\\Documents\\DaveSheldonTask2\\NameListApp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{806FC2DE-A697-4D9D-9A10-0A40F7628FED}|NameListApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{806FC2DE-A697-4D9D-9A10-0A40F7628FED}|NameListApp.csproj|c:\\users\\sclar\\documents\\davesheldontask2\\namelistapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{806FC2DE-A697-4D9D-9A10-0A40F7628FED}|NameListApp.csproj|C:\\Users\\sclar\\Documents\\DaveSheldonTask2\\NameListApp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{806FC2DE-A697-4D9D-9A10-0A40F7628FED}|NameListApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{806FC2DE-A697-4D9D-9A10-0A40F7628FED}|NameListApp.csproj|C:\\Users\\sclar\\Documents\\DaveSheldonTask2\\NameListApp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{806FC2DE-A697-4D9D-9A10-0A40F7628FED}|NameListApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{806FC2DE-A697-4D9D-9A10-0A40F7628FED}|NameListApp.csproj|C:\\Users\\sclar\\Documents\\DaveSheldonTask2\\NameListApp\\names.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{806FC2DE-A697-4D9D-9A10-0A40F7628FED}|NameListApp.csproj|solutionrelative:names.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806FC2DE-A697-4D9D-9A10-0A40F7628FED}|NameListApp.csproj|C:\\Users\\sclar\\Documents\\DaveSheldonTask2\\NameListApp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{806FC2DE-A697-4D9D-9A10-0A40F7628FED}|NameListApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,19 +35,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Surnames.txt",
-              "DocumentMoniker": "C:\\Users\\sclar\\Documents\\DaveSheldonTask2\\NameListApp\\Surnames.txt",
-              "RelativeDocumentMoniker": "Surnames.txt",
-              "ToolTip": "C:\\Users\\sclar\\Documents\\DaveSheldonTask2\\NameListApp\\Surnames.txt",
-              "RelativeToolTip": "Surnames.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-08-16T01:50:08.075Z",
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\sclar\\Documents\\DaveSheldonTask2\\NameListApp\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\sclar\\Documents\\DaveSheldonTask2\\NameListApp\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAnwE0AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T02:18:31.809Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Names.txt",
               "DocumentMoniker": "C:\\Users\\sclar\\Documents\\DaveSheldonTask2\\NameListApp\\Names.txt",
               "RelativeDocumentMoniker": "Names.txt",
@@ -55,7 +55,8 @@
               "RelativeToolTip": "Names.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-08-16T01:02:14.755Z"
+              "WhenOpened": "2025-08-16T01:02:14.755Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -65,14 +66,14 @@
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\sclar\\Documents\\DaveSheldonTask2\\NameListApp\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAewDYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAWwD4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-16T00:53:54.807Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\sclar\\Documents\\DaveSheldonTask2\\NameListApp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -80,8 +81,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T22:14:15.337Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-15T22:14:15.337Z"
             },
             {
               "$type": "Document",

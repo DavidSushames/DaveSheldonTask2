@@ -23,16 +23,7 @@ namespace NameListApp
             GetNames();
         }
 
-        private void btnNewName_Click(object sender, EventArgs e)
-        {
-            StreamWriter nameStreamWriter = new StreamWriter("Names.txt", true);
-            string infoName = tbxName.Text;
-
-            nameStreamWriter.WriteLine(infoName);
-
-            nameStreamWriter.Close();
-            GetNames();
-        }
+       
         private void GetNames()
         {
             StreamReader nameFileReader = new StreamReader("Names.txt");
@@ -45,6 +36,23 @@ namespace NameListApp
             nameFileReader.Close();
         }
 
+        private void btnLoad2_Click(object sender, EventArgs e)
+        {
+            GetSurnames();
+        }
+
+
+        private void GetSurnames()
+        {
+            StreamReader nameFileReader = new StreamReader("Surnames.txt");
+            listBox1.Items.Clear();
+            while (!nameFileReader.EndOfStream)
+            {
+                string aName2 = nameFileReader.ReadLine();
+                listBox1.Items.Add(aName2);
+            }
+            nameFileReader.Close();
+        }
         private void label1_Click(object sender, EventArgs e)
         {
 

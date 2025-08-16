@@ -75,7 +75,7 @@
             this.btnLoad2.TabIndex = 2;
             this.btnLoad2.Text = "Load Surname";
             this.btnLoad2.UseVisualStyleBackColor = true;
-            this.btnLoad2.Click += new System.EventHandler(this.button1_Click);
+            this.btnLoad2.Click += new System.EventHandler(this.btnLoad2_Click);
             // 
             // Form1
             // 
