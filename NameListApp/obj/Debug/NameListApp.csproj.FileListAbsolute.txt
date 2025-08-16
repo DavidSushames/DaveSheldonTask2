@@ -1,0 +1,10 @@
+C:\Users\Dave\OneDrive - Whitireia and WelTec\Documents\Security for DevOps\Assignment1Task2\NameListApp\bin\Debug\NameListApp.exe.config
+C:\Users\Dave\OneDrive - Whitireia and WelTec\Documents\Security for DevOps\Assignment1Task2\NameListApp\bin\Debug\NameListApp.exe
+C:\Users\Dave\OneDrive - Whitireia and WelTec\Documents\Security for DevOps\Assignment1Task2\NameListApp\bin\Debug\NameListApp.pdb
+C:\Users\Dave\OneDrive - Whitireia and WelTec\Documents\Security for DevOps\Assignment1Task2\NameListApp\obj\Debug\NameListApp.csproj.AssemblyReference.cache
+C:\Users\Dave\OneDrive - Whitireia and WelTec\Documents\Security for DevOps\Assignment1Task2\NameListApp\obj\Debug\NameListApp.Form1.resources
+C:\Users\Dave\OneDrive - Whitireia and WelTec\Documents\Security for DevOps\Assignment1Task2\NameListApp\obj\Debug\NameListApp.Properties.Resources.resources
+C:\Users\Dave\OneDrive - Whitireia and WelTec\Documents\Security for DevOps\Assignment1Task2\NameListApp\obj\Debug\NameListApp.csproj.GenerateResource.cache
+C:\Users\Dave\OneDrive - Whitireia and WelTec\Documents\Security for DevOps\Assignment1Task2\NameListApp\obj\Debug\NameListApp.csproj.CoreCompileInputs.cache
+C:\Users\Dave\OneDrive - Whitireia and WelTec\Documents\Security for DevOps\Assignment1Task2\NameListApp\obj\Debug\NameListApp.exe
+C:\Users\Dave\OneDrive - Whitireia and WelTec\Documents\Security for DevOps\Assignment1Task2\NameListApp\obj\Debug\NameListApp.pdb
