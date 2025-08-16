@@ -36,8 +36,8 @@
             // 
             // btnLoad
             // 
-            this.btnLoad.Location = new System.Drawing.Point(437, 65);
-            this.btnLoad.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnLoad.Location = new System.Drawing.Point(256, 24);
+            this.btnLoad.Margin = new System.Windows.Forms.Padding(4);
             this.btnLoad.Name = "btnLoad";
             this.btnLoad.Size = new System.Drawing.Size(141, 28);
             this.btnLoad.TabIndex = 0;
@@ -49,8 +49,8 @@
             // 
             this.lbxNames.FormattingEnabled = true;
             this.lbxNames.ItemHeight = 16;
-            this.lbxNames.Location = new System.Drawing.Point(384, 108);
-            this.lbxNames.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.lbxNames.Location = new System.Drawing.Point(200, 82);
+            this.lbxNames.Margin = new System.Windows.Forms.Padding(4);
             this.lbxNames.Name = "lbxNames";
             this.lbxNames.Size = new System.Drawing.Size(255, 404);
             this.lbxNames.TabIndex = 1;
@@ -59,7 +59,7 @@
             // 
             this.listBox1.FormattingEnabled = true;
             this.listBox1.ItemHeight = 16;
-            this.listBox1.Location = new System.Drawing.Point(682, 108);
+            this.listBox1.Location = new System.Drawing.Point(586, 82);
             this.listBox1.Margin = new System.Windows.Forms.Padding(4);
             this.listBox1.Name = "listBox1";
             this.listBox1.Size = new System.Drawing.Size(255, 404);
@@ -68,7 +68,7 @@
             // 
             // btnLoad2
             // 
-            this.btnLoad2.Location = new System.Drawing.Point(746, 65);
+            this.btnLoad2.Location = new System.Drawing.Point(646, 24);
             this.btnLoad2.Margin = new System.Windows.Forms.Padding(4);
             this.btnLoad2.Name = "btnLoad2";
             this.btnLoad2.Size = new System.Drawing.Size(138, 28);
@@ -86,7 +86,7 @@
             this.Controls.Add(this.btnLoad2);
             this.Controls.Add(this.lbxNames);
             this.Controls.Add(this.btnLoad);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);
