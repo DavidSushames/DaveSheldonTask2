@@ -20,52 +20,39 @@ namespace NameListApp
 
         private void btnLoad_Click(object sender, EventArgs e)
         {
-            GetNames();
+            GetNames();   //calls the get name function when load is clicked
         }
 
        
-        private void GetNames()
+        private void GetNames()  
         {
-            StreamReader nameFileReader = new StreamReader("Names.txt");
-            lbxNames.Items.Clear();
+            StreamReader nameFileReader = new StreamReader("Names.txt"); //read the Names.txt file
+            lbxNames.Items.Clear(); //clear list box 
             while (!nameFileReader.EndOfStream)
             {
-                string aName = nameFileReader.ReadLine();
-                lbxNames.Items.Add(aName);
+                string aName = nameFileReader.ReadLine(); //read name from file
+                lbxNames.Items.Add(aName); //add name to list box
             }
-            nameFileReader.Close();
+            nameFileReader.Close(); //stop reading names.txt file
         }
 
         private void btnLoad2_Click(object sender, EventArgs e)
         {
-            GetSurnames();
+            GetSurnames(); //call the get surnames function when load is called
         }
 
 
         private void GetSurnames()
         {
-            StreamReader nameFileReader = new StreamReader("Surnames.txt");
-            listBox1.Items.Clear();
+            StreamReader nameFileReader = new StreamReader("Surnames.txt"); //read the Surnames.txt file
+            listBox1.Items.Clear(); //clear list box
             while (!nameFileReader.EndOfStream)
             {
-                string aName2 = nameFileReader.ReadLine();
-                listBox1.Items.Add(aName2);
+                string aName2 = nameFileReader.ReadLine(); //read surname from file
+                listBox1.Items.Add(aName2); //add surname to list box
             }
-            nameFileReader.Close();
+            nameFileReader.Close(); //stop reading surnames.txt file
         }
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
-        }
+        
     }
 }
