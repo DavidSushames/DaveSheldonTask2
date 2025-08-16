@@ -8,3 +8,13 @@ C:\Users\Dave\OneDrive - Whitireia and WelTec\Documents\Security for DevOps\Assi
 C:\Users\Dave\OneDrive - Whitireia and WelTec\Documents\Security for DevOps\Assignment1Task2\NameListApp\obj\Debug\NameListApp.csproj.CoreCompileInputs.cache
 C:\Users\Dave\OneDrive - Whitireia and WelTec\Documents\Security for DevOps\Assignment1Task2\NameListApp\obj\Debug\NameListApp.exe
 C:\Users\Dave\OneDrive - Whitireia and WelTec\Documents\Security for DevOps\Assignment1Task2\NameListApp\obj\Debug\NameListApp.pdb
+C:\Users\sclar\Documents\DaveSheldonTask2\NameListApp\bin\Debug\NameListApp.exe.config
+C:\Users\sclar\Documents\DaveSheldonTask2\NameListApp\bin\Debug\NameListApp.exe
+C:\Users\sclar\Documents\DaveSheldonTask2\NameListApp\bin\Debug\NameListApp.pdb
+C:\Users\sclar\Documents\DaveSheldonTask2\NameListApp\obj\Debug\NameListApp.csproj.AssemblyReference.cache
+C:\Users\sclar\Documents\DaveSheldonTask2\NameListApp\obj\Debug\NameListApp.Form1.resources
+C:\Users\sclar\Documents\DaveSheldonTask2\NameListApp\obj\Debug\NameListApp.Properties.Resources.resources
+C:\Users\sclar\Documents\DaveSheldonTask2\NameListApp\obj\Debug\NameListApp.csproj.GenerateResource.cache
+C:\Users\sclar\Documents\DaveSheldonTask2\NameListApp\obj\Debug\NameListApp.csproj.CoreCompileInputs.cache
+C:\Users\sclar\Documents\DaveSheldonTask2\NameListApp\obj\Debug\NameListApp.exe
+C:\Users\sclar\Documents\DaveSheldonTask2\NameListApp\obj\Debug\NameListApp.pdb

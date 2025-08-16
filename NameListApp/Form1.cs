@@ -22,6 +22,17 @@ namespace NameListApp
         {
             GetNames();
         }
+
+        private void btnNewName_Click(object sender, EventArgs e)
+        {
+            StreamWriter nameStreamWriter = new StreamWriter("Names.txt", true);
+            string infoName = tbxName.Text;
+
+            nameStreamWriter.WriteLine(infoName);
+
+            nameStreamWriter.Close();
+            GetNames();
+        }
         private void GetNames()
         {
             StreamReader nameFileReader = new StreamReader("Names.txt");
@@ -32,6 +43,21 @@ namespace NameListApp
                 lbxNames.Items.Add(aName);
             }
             nameFileReader.Close();
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }
