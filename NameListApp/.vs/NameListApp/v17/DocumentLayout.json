@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Dave\\OneDrive - Whitireia and WelTec\\Documents\\Security for DevOps\\Assignment1Task2\\NameListApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{806FC2DE-A697-4D9D-9A10-0A40F7628FED}|NameListApp.csproj|c:\\users\\dave\\onedrive - whitireia and weltec\\documents\\security for devops\\assignment1task2\\namelistapp\\names.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{806FC2DE-A697-4D9D-9A10-0A40F7628FED}|NameListApp.csproj|solutionrelative:names.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{806FC2DE-A697-4D9D-9A10-0A40F7628FED}|NameListApp.csproj|c:\\users\\dave\\onedrive - whitireia and weltec\\documents\\security for devops\\assignment1task2\\namelistapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{806FC2DE-A697-4D9D-9A10-0A40F7628FED}|NameListApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -22,11 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Names.txt",
+              "DocumentMoniker": "C:\\Users\\Dave\\OneDrive - Whitireia and WelTec\\Documents\\Security for DevOps\\Assignment1Task2\\NameListApp\\Names.txt",
+              "RelativeDocumentMoniker": "Names.txt",
+              "ToolTip": "C:\\Users\\Dave\\OneDrive - Whitireia and WelTec\\Documents\\Security for DevOps\\Assignment1Task2\\NameListApp\\Names.txt",
+              "RelativeToolTip": "Names.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-08-16T01:02:14.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Dave\\OneDrive - Whitireia and WelTec\\Documents\\Security for DevOps\\Assignment1Task2\\NameListApp\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -39,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Dave\\OneDrive - Whitireia and WelTec\\Documents\\Security for DevOps\\Assignment1Task2\\NameListApp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -47,12 +64,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T22:14:15.337Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-15T22:14:15.337Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Dave\\OneDrive - Whitireia and WelTec\\Documents\\Security for DevOps\\Assignment1Task2\\NameListApp\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
